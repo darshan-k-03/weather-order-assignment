@@ -1,0 +1,8 @@
+Prompt 1:
+How to perform parallel API calls in Python using ThreadPoolExecutor?
+
+Prompt 2:
+How to handle API errors in Python requests without crashing the program?
+
+Prompt 3:
+Generate a Python function to create a personalized apology message based on weather delay.
